@@ -14,13 +14,23 @@ a {
 }
 h1 {
     background-color: teal;
-    padding: 31px;
+    color: darkmagenta;
+    padding: 5px;
 }
-.con1 {
+.boxed {
     background-image: url(SO_texture_bg.jpg);
   background-repeat:repeat;
 }
 
+.boxed2 {
+    border: 2px solid teal;
+}
 .pro {
     float: left;
+}
+
+.email {
+    color: blueviolet;
+    background-color: aqua;
+    padding: 40px;
 }
